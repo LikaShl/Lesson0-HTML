@@ -14,7 +14,7 @@ a {
 }
 
 ul {
-  list-style: n;
+  list-style: none;
 }
 
 button {
@@ -47,8 +47,7 @@ button {
   background-color: #0a61f7;
   padding: 14px 0;
 }
-.header-wrapper 
-{
+.header-wrapper {
   display: flex;
   justify-content: space-between;
   align-items: center;
